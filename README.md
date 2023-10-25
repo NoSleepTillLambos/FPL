@@ -7,39 +7,6 @@
 
 # [JupyterLab](https://jupyterlab.readthedocs.io)
 
-[![PyPI version](https://badge.fury.io/py/jupyterlab.svg)](https://badge.fury.io/py/jupyterlab)
-[![Downloads](https://static.pepy.tech/badge/jupyterlab/month)](https://pepy.tech/project/jupyterlab)
-[![Build Status](https://github.com/jupyterlab/jupyterlab/workflows/Linux%20Tests/badge.svg)](https://github.com/jupyterlab/jupyterlab/actions?query=branch%3Amain+workflow%3A%22Linux+Tests%22)
-[![Build Status](https://github.com/jupyterlab/jupyterlab/workflows/Windows%20Tests/badge.svg)](https://github.com/jupyterlab/jupyterlab/actions?query=branch%3Amain+workflow%3A%22Windows+Tests%22)
-[![Documentation Status](https://readthedocs.org/projects/jupyterlab/badge/?version=stable)](http://jupyterlab.readthedocs.io/en/stable/)
-[![Crowdin](https://badges.crowdin.net/jupyterlab/localized.svg)](https://crowdin.com/project/jupyterlab)
-[![GitHub](https://img.shields.io/badge/issue_tracking-github-blue.svg)](https://github.com/jupyterlab/jupyterlab/issues)
-[![Discourse](https://img.shields.io/badge/help_forum-discourse-blue.svg)](https://discourse.jupyter.org/c/jupyterlab)
-[![Gitter](https://img.shields.io/badge/social_chat-gitter-blue.svg)](https://gitter.im/jupyterlab/jupyterlab)
-[![Gitpod](https://img.shields.io/badge/gitpod_editor-open-blue.svg)](https://gitpod.io/#https://github.com/jupyterlab/jupyterlab)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/HEAD?urlpath=lab/tree/demo)
-
-An extensible environment for interactive and reproducible computing, based on the
-Jupyter Notebook and Architecture.
-
-[JupyterLab](http://jupyterlab.readthedocs.io/en/stable/) is the next-generation user interface for [Project Jupyter](https://jupyter.org) offering
-all the familiar building blocks of the classic Jupyter Notebook (notebook,
-terminal, text editor, file browser, rich outputs, etc.) in a flexible and
-powerful user interface.
-
-JupyterLab can be extended using [npm](https://www.npmjs.com/) packages
-that use our public APIs. The _prebuilt_ extensions can be distributed
-via [PyPI](https://pypi.org/search/?q=jupyterlab&o=-created&c=Framework+%3A%3A+Jupyter),
-conda, and other package managers. The _source_ extensions can be installed
-directly from npm (search for [jupyterlab-extension](https://www.npmjs.com/search?q=keywords:jupyterlab-extension)) but require an additional build step.
-You can also find JupyterLab extensions exploring GitHub topic [jupyterlab-extension](https://github.com/topics/jupyterlab-extension).
-To learn more about extensions, see the [user documentation](https://jupyterlab.readthedocs.io/en/latest/user/extensions.html).
-
-Read the current JupyterLab documentation on [ReadTheDocs](http://jupyterlab.readthedocs.io/en/stable/).
-
----
-
 ## Getting started
 
 ### Installation
