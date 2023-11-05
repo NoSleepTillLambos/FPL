@@ -7,10 +7,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br/>
-### Deployed on 
-
-![Hugging Face](https://tinyurl.com/2p9ft7xf)
-
 <br/>
 ### Installation
 
