@@ -10,8 +10,8 @@
 ### Deployed on 
 
 ![Hugging Face](https://tinyurl.com/2p9ft7xf)
-## Getting started
 
+<br/>
 ### Installation
 
 If you use [conda](https://docs.conda.io/en/latest/), [mamba](https://mamba.readthedocs.io/en/latest/), or [pip](https://docs.python.org/3/installing/index.html), you can install JupyterLab with one of the following commands.
