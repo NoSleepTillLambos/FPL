@@ -1,5 +1,15 @@
-# [JupyterLab](https://jupyterlab.readthedocs.io)
+### FPL - The all in one prediction model designed to predict and asess premier league scores, based on the years 1993 - 2023
 
+### Built with 
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+<br/>
+### Deployed on 
+
+![Hugging Face](https://tinyurl.com/2p9ft7xf)
 ## Getting started
 
 ### Installation
